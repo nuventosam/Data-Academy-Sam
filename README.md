@@ -9,7 +9,7 @@ add -> Tracks your files and changes in GIt
 commit -> Saves files in Git
 Push -> Uploads Git commits to a remote repo, like Github
 Pull -> Download changes from remote repo to your local device
-
+Changes were made, continue as normal
 -----
 Git Branching:
 - git branch -> will show all branches and highligh the one you are currently in with an '*'.
